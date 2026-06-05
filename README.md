@@ -1,7 +1,3 @@
-Here you go:
-
----
-
 # Hi, I'm Farooq 👋
 **_I build and deploy software._**
 
