@@ -10,10 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- ☁️ **DevOps Engineer & Software Developer** building reliable, scalable systems.
-- 🚀 AWS, Docker, Terraform, Jenkins, Kubernetes, and Linux for infrastructure and deployment automation.
-- 💻 Flutter, Golang, and backend development for products people actually use.
-- 📚 Always digging into cloud computing, automation, and distributed systems.
+[![Muhammad Farooq - DevOps Engineer and Software Developer building reliable, scalable cloud systems with AWS, Docker, Terraform, Jenkins, Kubernetes, and Linux. Flutter and Golang developer with backend and cloud infrastructure experience.](https://raw.githubusercontent.com/mfarooqzahid/media/main/portfolio/about.png)](https://mfarooqzahid.github.io/about)
 
 ---
 
