@@ -1,6 +1,6 @@
 # Hey, I'm Farooq 👋
 
-[![Farooq — I build & deploy software](https://raw.githubusercontent.com/mfarooqzahid/media/main/banner.png)](https://mfarooqzahid.github.io)
+[![Muhammad Farooq - DevOps Engineer and Software Developer specializing in AWS, Docker, Kubernetes, Terraform, Jenkins, Flutter, and Golang. Cloud infrastructure automation, CI/CD pipelines, and mobile app development portfolio.](https://raw.githubusercontent.com/mfarooqzahid/media/main/portfolio/banner.png)](https://mfarooqzahid.github.io)
 
 ### 🔗 [mfarooqzahid.github.io](https://mfarooqzahid.github.io) — check out my work
 
@@ -19,14 +19,7 @@
 
 ## 🏆 Notable Projects
 
-### [Inventory Flow](https://mfarooqzahid.github.io/projects/inventory-flow)
-A production inventory management app built to streamline business operations.
-
-### AWS DevOps Pipeline
-End-to-end CI/CD pipeline: Terraform, Jenkins, Docker, Amazon ECR, ECS Fargate, and CloudWatch, all wired together.
-
-### [Split](https://github.com/mfarooqzahid/split)
-Open-source project showing how I structure code and make architecture decisions.
+[![Farooq's featured projects - Inventory Flow inventory management app, AWS DevOps CI/CD pipeline with Terraform, Jenkins, Docker, Amazon ECS Fargate and CloudWatch, and Split open source project showcasing software architecture and coding practices.](https://raw.githubusercontent.com/mfarooqzahid/media/main/portfolio/projects.png)](https://mfarooqzahid.github.io/projects)
 
 👉 More projects on my [Portfolio](https://mfarooqzahid.github.io).
 
