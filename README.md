@@ -1,35 +1,41 @@
-# Hi, I'm Farooq 👋
-**_I build and deploy software._**
+# Hey, I'm Farooq 👋
+
+[![Farooq — I build & deploy software](https://raw.githubusercontent.com/mfarooqzahid/media/main/banner.png)](https://mfarooqzahid.github.io)
+
+### 🔗 [mfarooqzahid.github.io](https://mfarooqzahid.github.io) — check out my work
+
+**_I build systems, ship apps, and automate everything in between._**
 
 ---
 
 ## 👨‍💻 About Me
 
-- ☁️ **DevOps Engineer & Software Developer** — passionate about building reliable, scalable systems.
-- 🚀 Working with AWS, Docker, Terraform, Jenkins, Kubernetes, and Linux to automate infrastructure and deployments.
-- 💻 Strong development background in Flutter, Golang, and backend technologies.
-- 📚 Always exploring new territory in cloud computing, automation, and distributed systems.
+- ☁️ **DevOps Engineer & Software Developer** building reliable, scalable systems.
+- 🚀 AWS, Docker, Terraform, Jenkins, Kubernetes, and Linux for infrastructure and deployment automation.
+- 💻 Flutter, Golang, and backend development for products people actually use.
+- 📚 Always digging into cloud computing, automation, and distributed systems.
 
 ---
 
 ## 🏆 Notable Projects
 
-### [Inventory Flow](https://farooqzahid.vercel.app/projects/inventory-flow)
-A production inventory management app designed to streamline operations and business workflows.
+### [Inventory Flow](https://mfarooqzahid.github.io/projects/inventory-flow)
+A production inventory management app built to streamline business operations.
 
 ### AWS DevOps Pipeline
-End-to-end CI/CD pipeline built with Terraform, Jenkins, Docker, Amazon ECR, ECS Fargate, and CloudWatch.
+End-to-end CI/CD pipeline: Terraform, Jenkins, Docker, Amazon ECR, ECS Fargate, and CloudWatch, all wired together.
 
 ### [Split](https://github.com/mfarooqzahid/split)
-Open-source project showcasing my coding practices, architecture decisions, and development approach.
+Open-source project showing how I structure code and make architecture decisions.
 
-👉 Explore more on my [Portfolio](https://farooqzahid.vercel.app/projects).
+👉 More projects on my [Portfolio](https://mfarooqzahid.github.io).
 
 ---
 
 ## 🛠️ Tech Stack
 
 **DevOps & Cloud**
+
 ![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white)
@@ -40,6 +46,7 @@ Open-source project showcasing my coding practices, architecture decisions, and 
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?logo=github-actions&logoColor=white)
 
 **Development**
+
 ![Go](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white)
@@ -47,26 +54,27 @@ Open-source project showcasing my coding practices, architecture decisions, and 
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=black)
 
 **Monitoring & Observability**
+
 ![Grafana](https://img.shields.io/badge/grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?logo=prometheus&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/elk_stack-005571?logo=elastic&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mfarooqzahid)
-- [Instagram](https://www.instagram.com/mfarooqzahid/)
-- [Medium](https://mfarooqzahid.medium.com/)
-- [Portfolio](https://mfarooqzahid.vercel.app)
+- 🌍 [Portfolio](https://mfarooqzahid.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mfarooqzahid)
+- 📸 [Instagram](https://www.instagram.com/mfarooqzahid/)
+- ✍️ [Medium](https://mfarooqzahid.medium.com/)
 
 ---
 
 ## 💡 A Few Things About Me
 
-- I enjoy solving infrastructure and deployment challenges just as much as writing application code.
-- Most of my free time goes into learning, building, or experimenting with something new.
-- If I'm not working on a project, I'm probably planning the next one.
+- Infrastructure problems and application code interest me equally.
+- Most of my free time goes into learning, building, or breaking something new.
+- If I'm not shipping a project, I'm probably planning the next one.
 
 ---
 
